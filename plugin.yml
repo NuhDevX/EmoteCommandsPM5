@@ -1,9 +1,9 @@
 ---
 name: EmoteCommands
-version: 1.0.0
+version: 1.0.1
 main: DiamondStrider1\EmoteCommands\Loader
-api: 4.0.0
-author: DiamondStrider1
+api: 5.0.0
+author: DiamondStrider1, NuhDev
 
 permissions:
   emotecommands.admin:
